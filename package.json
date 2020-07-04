@@ -6,6 +6,11 @@
   "types": "dist/index.d.js",
   "author": "Michal Kruk",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruczy/use-const.git",
+    "baseUrl": "https://github.com/kruczy/use-const"
+  },
   "scripts": {
     "build": "rm -rf ./dist && tsc"
   },
